@@ -42,17 +42,17 @@ cd binance_transaction_app
 
 2. Install dependencies:
 ```bash
-flutter pub get
+fvm flutter pub get
 ```
 
 3. Generate JSON serialization code:
 ```bash
-flutter packages pub run build_runner build
+fvm flutter packages pub run build_runner build
 ```
 
 4. Run the app:
 ```bash
-flutter run
+fvm flutter run
 ```
 
 ### Setting up Binance API
